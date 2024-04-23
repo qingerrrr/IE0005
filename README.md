@@ -5,5 +5,5 @@ This objective of this project is to predict the cuisine types given the ingredi
 Group Mates:
 Wong Qing Er;
 Mil Manussawin Sahassapon;
-Yao Jin Long;
+Yao JinLong;
 Shahzrul Ramadzan Bin Johar;
